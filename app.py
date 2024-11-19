@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 # import other packages
 
+# load model
+# model = xgb.load('xgb_model')
 
 st.write("""
     # TSFPB Isolated Bridge Structural Response Predictor
